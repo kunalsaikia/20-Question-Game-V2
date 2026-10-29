@@ -1,0 +1,156 @@
+{
+  "questions": {
+    "is it warm blooded?": "Is it warm-blooded?",
+    "can it fly?": "Can it fly or be airborne?",
+    "is it a vertebrate?": "Does it have a backbone (vertebrate)?",
+    "is it endangered?": "Is it an endangered species?",
+    "does it live in groups?": "Does it live in social groups or packs?",
+    "does it have hair?": "Does it have hair or fur?"
+  },
+  "objects": [
+    {
+      "name": "Ant",
+      "category": "Animal",
+      "attributes": {
+        "is it warm blooded?": 0,
+        "can it fly?": 0,
+        "is it a vertebrate?": 0,
+        "is it endangered?": 0,
+        "does it live in groups?": 1,
+        "does it have hair?": 0
+      }
+    },
+    {
+      "name": "Bee",
+      "category": "Animal",
+      "attributes": {
+        "is it warm blooded?": 0,
+        "can it fly?": 1,
+        "is it a vertebrate?": 0,
+        "is it endangered?": 0,
+        "does it live in groups?": 1,
+        "does it have hair?": 1
+      }
+    },
+    {
+      "name": "Cat",
+      "category": "Animal",
+      "attributes": {
+        "is it warm blooded?": 1,
+        "can it fly?": 0,
+        "is it a vertebrate?": 1,
+        "is it endangered?": 0,
+        "does it live in groups?": 0,
+        "does it have hair?": 1
+      }
+    },
+    {
+      "name": "Cpl",
+      "category": "Animal",
+      "attributes": {
+        "is it warm blooded?": 0,
+        "can it fly?": 0,
+        "is it a vertebrate?": 0,
+        "is it endangered?": 0,
+        "does it live in groups?": 0,
+        "does it have hair?": 1
+      }
+    },
+    {
+      "name": "Duck",
+      "category": "Animal",
+      "attributes": {
+        "is it warm blooded?": 1,
+        "can it fly?": 1,
+        "is it a vertebrate?": 1,
+        "is it endangered?": 0,
+        "does it live in groups?": 1,
+        "does it have hair?": 0
+      }
+    },
+    {
+      "name": "Eagle",
+      "category": "Animal",
+      "attributes": {
+        "is it warm blooded?": 1,
+        "can it fly?": 1,
+        "is it a vertebrate?": 1,
+        "is it endangered?": 1,
+        "does it live in groups?": 0,
+        "does it have hair?": 0
+      }
+    },
+    {
+      "name": "Elephant",
+      "category": "Animal",
+      "attributes": {
+        "is it warm blooded?": 1,
+        "can it fly?": 0,
+        "is it a vertebrate?": 1,
+        "is it endangered?": 1,
+        "does it live in groups?": 1,
+        "does it have hair?": 0
+      }
+    },
+    {
+      "name": "Fly",
+      "category": "Animal",
+      "attributes": {
+        "is it warm blooded?": 0,
+        "can it fly?": 1,
+        "is it a vertebrate?": 0,
+        "is it endangered?": 0,
+        "does it live in groups?": 0,
+        "does it have hair?": 0
+      }
+    },
+    {
+      "name": "Her",
+      "category": "Animal",
+      "attributes": {
+        "is it warm blooded?": 0,
+        "can it fly?": 0,
+        "is it a vertebrate?": 1,
+        "is it endangered?": 0,
+        "does it live in groups?": 1,
+        "does it have hair?": 0
+      }
+    },
+    {
+      "name": "Lizard",
+      "category": "Animal",
+      "attributes": {
+        "is it warm blooded?": 0,
+        "can it fly?": 0,
+        "is it a vertebrate?": 1,
+        "is it endangered?": 0,
+        "does it live in groups?": 0,
+        "does it have hair?": 0
+      }
+    },
+    {
+      "name": "Man",
+      "category": "Animal",
+      "attributes": {
+        "is it warm blooded?": 1,
+        "can it fly?": 0,
+        "is it a vertebrate?": 1,
+        "is it endangered?": 1,
+        "does it live in groups?": 1,
+        "does it have hair?": 1
+      }
+    },
+    {
+      "name": "Rabbit",
+      "category": "Animal",
+      "attributes": {
+        "is it warm blooded?": 1,
+        "can it fly?": 0,
+        "is it a vertebrate?": 1,
+        "is it endangered?": 0,
+        "does it live in groups?": 1,
+        "does it have hair?": 1
+      }
+    }
+  ]
+}

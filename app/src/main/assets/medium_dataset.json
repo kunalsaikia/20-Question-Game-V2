@@ -1,0 +1,294 @@
+{
+  "questions": {
+    "hair?": "Does it have hair or fur?",
+    "feathers?": "Does it have feathers?",
+    "lays eggs?": "Does it lay eggs?",
+    "milk?": "Does it feed milk to its offspring (mammal)?",
+    "airborne?": "Can it fly or be airborne?",
+    "aquatic?": "Does it live in water or is it aquatic?",
+    "predator?": "Is it a predator that hunts for food?",
+    "toothed?": "Does it have teeth?",
+    "backbone?": "Does it have a backbone (vertebrate)?",
+    "breathes?": "Does it breathe air?",
+    "venemous?": "Is it venomous or poisonous?",
+    "fins?": "Does it have fins?",
+    "catsize?": "Is it roughly the size of a cat or larger?",
+    "brown?": "Is it typically brown or tan in color?",
+    "bigger than a car?": "Is it physically larger than a car?"
+  },
+  "objects": [
+    {
+      "name": "Bass",
+      "category": "Animal",
+      "attributes": {
+        "hair?": 0,
+        "feathers?": 0,
+        "lays eggs?": 1,
+        "milk?": 0,
+        "airborne?": 0,
+        "aquatic?": 1,
+        "predator?": 1,
+        "toothed?": 1,
+        "backbone?": 1,
+        "breathes?": 0,
+        "venemous?": 0,
+        "fins?": 1,
+        "catsize?": 1,
+        "brown?": 0,
+        "bigger than a car?": 0
+      }
+    },
+    {
+      "name": "Chicken",
+      "category": "Animal",
+      "attributes": {
+        "hair?": 0,
+        "feathers?": 1,
+        "lays eggs?": 1,
+        "milk?": 0,
+        "airborne?": 1,
+        "aquatic?": 0,
+        "predator?": 0,
+        "toothed?": 0,
+        "backbone?": 1,
+        "breathes?": 1,
+        "venemous?": 0,
+        "fins?": 0,
+        "catsize?": 1,
+        "brown?": 1,
+        "bigger than a car?": 0
+      }
+    },
+    {
+      "name": "Elephant",
+      "category": "Animal",
+      "attributes": {
+        "hair?": 1,
+        "feathers?": 0,
+        "lays eggs?": 0,
+        "milk?": 1,
+        "airborne?": 0,
+        "aquatic?": 0,
+        "predator?": 0,
+        "toothed?": 1,
+        "backbone?": 1,
+        "breathes?": 1,
+        "venemous?": 0,
+        "fins?": 0,
+        "catsize?": 0,
+        "brown?": 0,
+        "bigger than a car?": 1
+      }
+    },
+    {
+      "name": "Giraffe",
+      "category": "Animal",
+      "attributes": {
+        "hair?": 1,
+        "feathers?": 0,
+        "lays eggs?": 0,
+        "milk?": 1,
+        "airborne?": 0,
+        "aquatic?": 0,
+        "predator?": 0,
+        "toothed?": 1,
+        "backbone?": 1,
+        "breathes?": 1,
+        "venemous?": 0,
+        "fins?": 0,
+        "catsize?": 0,
+        "brown?": 1,
+        "bigger than a car?": 1
+      }
+    },
+    {
+      "name": "Hawk",
+      "category": "Animal",
+      "attributes": {
+        "hair?": 0,
+        "feathers?": 1,
+        "lays eggs?": 1,
+        "milk?": 0,
+        "airborne?": 1,
+        "aquatic?": 0,
+        "predator?": 1,
+        "toothed?": 0,
+        "backbone?": 1,
+        "breathes?": 1,
+        "venemous?": 0,
+        "fins?": 0,
+        "catsize?": 1,
+        "brown?": 1,
+        "bigger than a car?": 0
+      }
+    },
+    {
+      "name": "Lion",
+      "category": "Animal",
+      "attributes": {
+        "hair?": 1,
+        "feathers?": 0,
+        "lays eggs?": 0,
+        "milk?": 1,
+        "airborne?": 0,
+        "aquatic?": 0,
+        "predator?": 1,
+        "toothed?": 1,
+        "backbone?": 1,
+        "breathes?": 1,
+        "venemous?": 0,
+        "fins?": 0,
+        "catsize?": 0,
+        "brown?": 1,
+        "bigger than a car?": 0
+      }
+    },
+    {
+      "name": "Penguin",
+      "category": "Animal",
+      "attributes": {
+        "hair?": 0,
+        "feathers?": 1,
+        "lays eggs?": 1,
+        "milk?": 0,
+        "airborne?": 0,
+        "aquatic?": 1,
+        "predator?": 1,
+        "toothed?": 0,
+        "backbone?": 1,
+        "breathes?": 1,
+        "venemous?": 0,
+        "fins?": 0,
+        "catsize?": 0,
+        "brown?": 0,
+        "bigger than a car?": 0
+      }
+    },
+    {
+      "name": "Platypus",
+      "category": "Animal",
+      "attributes": {
+        "hair?": 1,
+        "feathers?": 0,
+        "lays eggs?": 1,
+        "milk?": 1,
+        "airborne?": 0,
+        "aquatic?": 1,
+        "predator?": 1,
+        "toothed?": 0,
+        "backbone?": 1,
+        "breathes?": 1,
+        "venemous?": 0,
+        "fins?": 0,
+        "catsize?": 1,
+        "brown?": 1,
+        "bigger than a car?": 0
+      }
+    },
+    {
+      "name": "Reindeer",
+      "category": "Animal",
+      "attributes": {
+        "hair?": 1,
+        "feathers?": 0,
+        "lays eggs?": 0,
+        "milk?": 1,
+        "airborne?": 0,
+        "aquatic?": 0,
+        "predator?": 0,
+        "toothed?": 1,
+        "backbone?": 1,
+        "breathes?": 1,
+        "venemous?": 0,
+        "fins?": 0,
+        "catsize?": 0,
+        "brown?": 1,
+        "bigger than a car?": 0
+      }
+    },
+    {
+      "name": "Seal",
+      "category": "Animal",
+      "attributes": {
+        "hair?": 1,
+        "feathers?": 0,
+        "lays eggs?": 0,
+        "milk?": 1,
+        "airborne?": 0,
+        "aquatic?": 1,
+        "predator?": 1,
+        "toothed?": 1,
+        "backbone?": 1,
+        "breathes?": 1,
+        "venemous?": 0,
+        "fins?": 1,
+        "catsize?": 0,
+        "brown?": 0,
+        "bigger than a car?": 0
+      }
+    },
+    {
+      "name": "Squirrel",
+      "category": "Animal",
+      "attributes": {
+        "hair?": 1,
+        "feathers?": 0,
+        "lays eggs?": 0,
+        "milk?": 1,
+        "airborne?": 0,
+        "aquatic?": 0,
+        "predator?": 0,
+        "toothed?": 1,
+        "backbone?": 1,
+        "breathes?": 1,
+        "venemous?": 0,
+        "fins?": 0,
+        "catsize?": 1,
+        "brown?": 1,
+        "bigger than a car?": 0
+      }
+    },
+    {
+      "name": "Starfish",
+      "category": "Animal",
+      "attributes": {
+        "hair?": 0,
+        "feathers?": 0,
+        "lays eggs?": 1,
+        "milk?": 0,
+        "airborne?": 0,
+        "aquatic?": 1,
+        "predator?": 1,
+        "toothed?": 0,
+        "backbone?": 0,
+        "breathes?": 0,
+        "venemous?": 0,
+        "fins?": 0,
+        "catsize?": 0,
+        "brown?": 0,
+        "bigger than a car?": 0
+      }
+    },
+    {
+      "name": "Termite",
+      "category": "Animal",
+      "attributes": {
+        "hair?": 0,
+        "feathers?": 0,
+        "lays eggs?": 1,
+        "milk?": 0,
+        "airborne?": 0,
+        "aquatic?": 0,
+        "predator?": 0,
+        "toothed?": 0,
+        "backbone?": 0,
+        "breathes?": 1,
+        "venemous?": 0,
+        "fins?": 0,
+        "catsize?": 0,
+        "brown?": 0,
+        "bigger than a car?": 0
+      }
+    }
+  ]
+}

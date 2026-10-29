@@ -1,0 +1,66 @@
+{
+  "questions": {
+    "is it aquatic?": "Does it live in water or is it aquatic?",
+    "does it lay eggs?": "does it lay eggs?",
+    "does it have 4 legs?": "Does it have four legs?",
+    "does it have a trunk?": "Does it have a long trunk (like an elephant)?",
+    "does it have 2 legs?": "Does it have two legs?"
+  },
+  "objects": [
+    {
+      "name": "Giraffe",
+      "category": "Animal",
+      "attributes": {
+        "is it aquatic?": 0,
+        "does it lay eggs?": 0,
+        "does it have 4 legs?": 1,
+        "does it have a trunk?": 0,
+        "does it have 2 legs?": 0
+      }
+    },
+    {
+      "name": "Seal",
+      "category": "Animal",
+      "attributes": {
+        "is it aquatic?": 1,
+        "does it lay eggs?": 0,
+        "does it have 4 legs?": 0,
+        "does it have a trunk?": 0,
+        "does it have 2 legs?": 0
+      }
+    },
+    {
+      "name": "Chicken",
+      "category": "Animal",
+      "attributes": {
+        "is it aquatic?": 0,
+        "does it lay eggs?": 1,
+        "does it have 4 legs?": 0,
+        "does it have a trunk?": 0,
+        "does it have 2 legs?": 1
+      }
+    },
+    {
+      "name": "Penguin",
+      "category": "Animal",
+      "attributes": {
+        "is it aquatic?": 1,
+        "does it lay eggs?": 1,
+        "does it have 4 legs?": 0,
+        "does it have a trunk?": 0,
+        "does it have 2 legs?": 1
+      }
+    },
+    {
+      "name": "Elephant",
+      "category": "Animal",
+      "attributes": {
+        "is it aquatic?": 0,
+        "does it lay eggs?": 0,
+        "does it have 4 legs?": 1,
+        "does it have a trunk?": 1,
+        "does it have 2 legs?": 0
+      }
+    }
+  ]
+}
